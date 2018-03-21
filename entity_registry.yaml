@@ -1,0 +1,32 @@
+media_player.living_room_apple_tv:
+  name:
+  platform: apple_tv
+  unique_id: bd780752fade77d27e76aba5d3ce31d0a0e40391f9ef92d54c6bc1801df972b2
+remote.living_room_apple_tv:
+  name:
+  platform: apple_tv
+  unique_id: bd780752fade77d27e76aba5d3ce31d0a0e40391f9ef92d54c6bc1801df972b2
+media_player.rasplex:
+  name: RasPlex Living Room
+  platform: plex
+  unique_id: 53aa128c-f59c-4540-b7f8-0b8c5c1e7275
+media_player.rasplex_2:
+  name: RasPlex - Basement
+  platform: plex
+  unique_id: 529f935a-9312-4422-9b55-b19743144453
+media_player.iphonex:
+  name:
+  platform: plex
+  unique_id: DF841DC8-F997-4E9D-841E-E76CB961D87E
+media_player.living_room_apple_tv_2:
+  name:
+  platform: apple_tv
+  unique_id: 3def70ab70ca622f8e78f2736c540edbc331fda2e26e32ca908dd79f68c337fc
+remote.living_room_apple_tv_2:
+  name:
+  platform: apple_tv
+  unique_id: 3def70ab70ca622f8e78f2736c540edbc331fda2e26e32ca908dd79f68c337fc
+media_player.tv_un43mu6300:
+  name:
+  platform: plex
+  unique_id: 0hdtlgmagjdlhaor2f0tghfe
